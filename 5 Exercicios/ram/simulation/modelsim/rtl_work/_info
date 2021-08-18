@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Luciano/Desktop/VHDL/aula 5/Exercicios/ram/simulation/modelsim
+Eram1
+Z1 w1628555963
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z5 8C:/Users/Luciano/Desktop/VHDL/aula 5/Exercicios/ram/RAM1.vhd
+Z6 FC:/Users/Luciano/Desktop/VHDL/aula 5/Exercicios/ram/RAM1.vhd
+l0
+L14 1
+VXhYAe3MhGk>WD?Qd16c?H3
+!s100 <]MBVN38U`7Hk0:R`Ml;b3
+Z7 OV;C;2020.1;71
+33
+Z8 !s110 1628556937
+!i10b 1
+Z9 !s108 1628556937.000000
+Z10 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Luciano/Desktop/VHDL/aula 5/Exercicios/ram/RAM1.vhd|
+Z11 !s107 C:/Users/Luciano/Desktop/VHDL/aula 5/Exercicios/ram/RAM1.vhd|
+!i113 1
+Z12 o-2008 -work work
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+DEx4 work 4 ram1 0 22 XhYAe3MhGk>WD?Qd16c?H3
+!i122 0
+l42
+L27 29
+VhUGcFB6Y3@KbATj`C>F@63
+!s100 U@HDcRzPS[N3e0oP;UK<j0
+R7
+33
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eram1_tb
+Z14 w1626994507
+R2
+R3
+R4
+!i122 1
+R0
+Z15 8C:/Users/Luciano/Desktop/VHDL/aula 5/Exercicios/ram/RAM1_tb.vhd
+Z16 FC:/Users/Luciano/Desktop/VHDL/aula 5/Exercicios/ram/RAM1_tb.vhd
+l0
+L9 1
+VXcLPeOJkhaaP8_1e[zLKW2
+!s100 b:g3^lCOOBLjBL3KoM_Ka3
+R7
+33
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Luciano/Desktop/VHDL/aula 5/Exercicios/ram/RAM1_tb.vhd|
+!s107 C:/Users/Luciano/Desktop/VHDL/aula 5/Exercicios/ram/RAM1_tb.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 7 ram1_tb 0 22 XcLPeOJkhaaP8_1e[zLKW2
+!i122 1
+l43
+L12 53
+Vlg`<[zLV9d05E5TG@_6EQ1
+!s100 jVMdd65>0OYCzzeaFmTza1
+R7
+33
+R8
+!i10b 1
+R9
+R17
+Z18 !s107 C:/Users/Luciano/Desktop/VHDL/aula 5/Exercicios/ram/RAM1_tb.vhd|
+!i113 1
+R12
+R13

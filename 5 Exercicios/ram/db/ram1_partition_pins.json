@@ -1,0 +1,93 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ram_output[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_output[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_output[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_output[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_output[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_output[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_output[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_output[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_address[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_address[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_input[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "ram_address[0]",
+					"strict" : false
+				},
+				{
+					"name" : "we",
+					"strict" : false
+				},
+				{
+					"name" : "ram_input[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_input[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_input[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_input[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_input[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_input[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ram_input[7]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

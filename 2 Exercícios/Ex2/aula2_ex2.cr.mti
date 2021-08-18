@@ -1,0 +1,17 @@
+{C:/Users/Luciano/Desktop/VHDL/aula 2/exemplo2_tb.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luciano/Desktop/VHDL/aula 2/exemplo2_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Luciano/Desktop/VHDL/aula 2/Exercícios aula 2/Ex2/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vcom-9) Problem while writing token file "C:/Users/Luciano/Desktop/VHDL/aula 2/Exercícios aula 2/Ex2/work/_temp/vcom4tinbn".
+** Note: C:/Users/Luciano/Desktop/VHDL/aula 2/exemplo2_tb.vhd(2): VHDL Compiler exiting
+
+} {} {}} {C:/Users/Luciano/Desktop/VHDL/aula 2/or_exemplo.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luciano/Desktop/VHDL/aula 2/or_exemplo.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Luciano/Desktop/VHDL/aula 2/Exercícios aula 2/Ex2/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vcom-9) Problem while writing token file "C:/Users/Luciano/Desktop/VHDL/aula 2/Exercícios aula 2/Ex2/work/_temp/vcomh384tt".
+** Note: C:/Users/Luciano/Desktop/VHDL/aula 2/or_exemplo.vhd(4): VHDL Compiler exiting
+
+} {} {}}

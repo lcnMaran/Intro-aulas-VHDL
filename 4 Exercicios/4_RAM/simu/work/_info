@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/3_Exercicio1/Simu
+Eexercicio5_tb
+w1628554842
+Z0 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 8
+Z3 dC:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/4_RAM/simu
+8C:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/4_RAM/exercicio5_tb.vhd
+FC:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/4_RAM/exercicio5_tb.vhd
+l0
+L9 1
+VQKfK04j[C9X[^f`NkAZI>2
+!s100 o8l`mYV4nl:Ob[ofk1b6z2
+Z4 OV;C;2020.1;71
+32
+Z5 !s110 1628555760
+!i10b 1
+Z6 !s108 1628555760.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/4_RAM/exercicio5_tb.vhd|
+!s107 C:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/4_RAM/exercicio5_tb.vhd|
+!i113 1
+Z7 o-work work -2002 -explicit
+Z8 tExplicit 1 CvgOpt 0
+Eram3
+w1628555505
+R0
+R1
+R2
+!i122 9
+R3
+8C:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/4_RAM/RAM3.vhd
+FC:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/4_RAM/RAM3.vhd
+l0
+L6 1
+V?KzI=XBZ;dOPCHk8cnFK^1
+!s100 6JmgHN>mHMT@ncP_0J_z:2
+R4
+32
+R5
+!i10b 1
+R6
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/4_RAM/RAM3.vhd|
+!s107 C:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/4_RAM/RAM3.vhd|
+!i113 1
+R7
+R8

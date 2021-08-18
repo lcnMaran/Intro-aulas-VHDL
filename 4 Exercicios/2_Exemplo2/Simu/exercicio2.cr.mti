@@ -1,0 +1,19 @@
+{C:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/Exemplo2/exercicio2_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/Exemplo2/exercicio2_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity exercicio2_tb
+-- Compiling architecture behavioral of exercicio2_tb
+
+} {} {}} {C:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/Exemplo2/shiftReg2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/Exemplo2/shiftReg2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity shiftReg2
+-- Compiling architecture behavior of shiftReg2
+
+} {} {}}

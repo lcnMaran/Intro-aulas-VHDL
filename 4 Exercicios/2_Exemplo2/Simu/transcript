@@ -1,0 +1,64 @@
+# Compile of exercicio2_tb.vhd was successful with warnings.
+# Compile of shiftReg2.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.exercicio2_tb
+# vsim -gui work.exercicio2_tb 
+# Start time: 20:44:37 on Jul 27,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.exercicio2_tb(behavioral)
+# Loading work.shiftreg2(behavior)
+# ** Warning: (vsim-8683) Uninitialized out port /exercicio2_tb/DUT/Q has no driver.
+# This port will contribute value (U) to the signal network.
+add wave  \
+sim:/exercicio2_tb/clock \
+sim:/exercicio2_tb/estimulo_vector \
+sim:/exercicio2_tb/estimulo \
+sim:/exercicio2_tb/ENTRADA \
+sim:/exercicio2_tb/RESET \
+sim:/exercicio2_tb/ENABLE \
+sim:/exercicio2_tb/SAIDA \
+sim:/exercicio2_tb/Q_A \
+sim:/exercicio2_tb/Q_B \
+sim:/exercicio2_tb/Q_C
+run
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 8 (7 downto 0). Right is 7 (0 to 6).
+#    Time: 10 ns  Iteration: 0  Process: /exercicio2_tb/line__60 File: C:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/Exemplo2/exercicio2_tb.vhd
+# Fatal error in Process line__60 at C:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/Exemplo2/exercicio2_tb.vhd line 76
+# 
+# HDL call sequence:
+# Stopped at C:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/Exemplo2/exercicio2_tb.vhd 76 Process line__60
+# 
+quit -sim
+# End time: 20:49:14 on Jul 27,2021, Elapsed time: 0:04:37
+# Errors: 1, Warnings: 3
+# Compile of exercicio2_tb.vhd was successful.
+# Compile of shiftReg2.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.exercicio2_tb
+# vsim -gui work.exercicio2_tb 
+# Start time: 20:49:27 on Jul 27,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.exercicio2_tb(behavioral)
+# Loading work.shiftreg2(behavior)
+# ** Warning: (vsim-8683) Uninitialized out port /exercicio2_tb/DUT/Q has no driver.
+# This port will contribute value (U) to the signal network.
+add wave  \
+sim:/exercicio2_tb/clock \
+sim:/exercicio2_tb/estimulo_vector \
+sim:/exercicio2_tb/estimulo \
+sim:/exercicio2_tb/ENTRADA \
+sim:/exercicio2_tb/RESET \
+sim:/exercicio2_tb/ENABLE \
+sim:/exercicio2_tb/SAIDA \
+sim:/exercicio2_tb/Q_A \
+sim:/exercicio2_tb/Q_B \
+sim:/exercicio2_tb/Q_C
+run
+# End time: 21:12:10 on Jul 27,2021, Elapsed time: 0:22:43
+# Errors: 0, Warnings: 3

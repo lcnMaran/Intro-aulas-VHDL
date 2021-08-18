@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Luciano/Desktop/VHDL/aula 4/Exercicios/4_RAM/simu
+Eram1
+Z0 w1628555963
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z4 dC:/Users/Luciano/Desktop/VHDL/aula 3/Simu/ram1
+Z5 8C:/Users/Luciano/Desktop/VHDL/aula 3/Simu/ram1/RAM1.vhd
+Z6 FC:/Users/Luciano/Desktop/VHDL/aula 3/Simu/ram1/RAM1.vhd
+l0
+L14 1
+Vmm65B`U5@FSTGDI3F=18m1
+!s100 <]MBVN38U`7Hk0:R`Ml;b3
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1628556013
+!i10b 1
+Z9 !s108 1628556013.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luciano/Desktop/VHDL/aula 3/Simu/ram1/RAM1.vhd|
+Z11 !s107 C:/Users/Luciano/Desktop/VHDL/aula 3/Simu/ram1/RAM1.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+DEx4 work 4 ram1 0 22 mm65B`U5@FSTGDI3F=18m1
+!i122 0
+l42
+L27 29
+VFb]8l:PJ2h?jn8X^]36710
+!s100 U@HDcRzPS[N3e0oP;UK<j0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eram1_tb
+Z14 w1626994507
+R1
+R2
+R3
+!i122 1
+R4
+Z15 8C:/Users/Luciano/Desktop/VHDL/aula 3/Simu/ram1/RAM1_tb.vhd
+Z16 FC:/Users/Luciano/Desktop/VHDL/aula 3/Simu/ram1/RAM1_tb.vhd
+l0
+L9 1
+V73QT4mW@M<j]9_:@SfKb92
+!s100 b:g3^lCOOBLjBL3KoM_Ka3
+R7
+32
+Z17 !s110 1628556014
+!i10b 1
+Z18 !s108 1628556014.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Luciano/Desktop/VHDL/aula 3/Simu/ram1/RAM1_tb.vhd|
+!s107 C:/Users/Luciano/Desktop/VHDL/aula 3/Simu/ram1/RAM1_tb.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 7 ram1_tb 0 22 73QT4mW@M<j]9_:@SfKb92
+!i122 1
+l43
+L12 53
+V:IX[43C09Vkf6CPBAiZ[]1
+!s100 jVMdd65>0OYCzzeaFmTza1
+R7
+32
+R17
+!i10b 1
+R18
+R19
+Z20 !s107 C:/Users/Luciano/Desktop/VHDL/aula 3/Simu/ram1/RAM1_tb.vhd|
+!i113 1
+R12
+R13
